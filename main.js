@@ -1,3 +1,3 @@
 function iniciar (){
-  window.location =  "cumpleaños/cumpleaños.html"; 
+  window.location =  "cumpleaños"; 
 }
